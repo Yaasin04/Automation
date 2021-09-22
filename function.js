@@ -17,6 +17,6 @@ console.log(bigProduct);
 
 setTimeout(function () {
     console.log("hey you rocks !");
-
+    console.log("hey !");
 }, 1000);
 
