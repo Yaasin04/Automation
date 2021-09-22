@@ -18,5 +18,6 @@ console.log(bigProduct);
 setTimeout(function () {
     console.log("hey you rocks !");
     console.log("hey !");
+    console.log("test merger");
 }, 1000);
 
