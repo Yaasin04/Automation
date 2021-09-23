@@ -8,4 +8,5 @@ else if (attendance > 15){
 }
 else {
     console.log("we are full capacity");
+    console.log("we test here");
 }
